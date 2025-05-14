@@ -1,8 +1,8 @@
-![Extension Icon](icon.png)
 # 📧 Dice Email Hunter Pro
 
 **Dice Email Hunter Pro** is a lightweight Chrome Extension that extracts and displays all email addresses from the currently active webpage. It lets you copy emails individually or all at once — right from a clean popup interface.
 
+![Extension Icon](icon.png)
 ---
 
 ## 🔧 Features
