@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Dice Email Hunter Pro",
+  "version": "1.0",
+  "description": "Extract and copy email addresses from any webpage.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
